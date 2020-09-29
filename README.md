@@ -10,7 +10,7 @@ These are the assumptions of the linear regression model:
 
 The inferential results of the regression model depends on these statistical assumptions, and they are correct only if these assumptions hold at least approximately.
 
-The *predictions* of the linear regression model are not dependent on these assumptions, so if the goals are *purely* predictive, these assumptions are not strong concerns.
+The **predictions** of the linear regression model are not dependent on these assumptions, so if the goals are *purely* predictive, these assumptions are not strong concerns.
 
 We need to understand p-values associated with beta coefficients and then interpret them to gain insight into the relationship between variables.
 
